@@ -1,4 +1,5 @@
 >>> from resistivity import resistivity
+
 >>> resistivity(53, 22, 5)
 233.2
 >>> resistivity(65.6, 6.97, 14.67)
@@ -19,3 +20,4 @@
 93.57
 >>> resistivity(12.3, 7, 4)
 21.53
+
