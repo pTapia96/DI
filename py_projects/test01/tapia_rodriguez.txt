@@ -1,0 +1,22 @@
+>>> from tapia_rodriguez import toroid_area
+
+>>> toroid_area(43.6,25.29)
+43530.64
+>>> toroid_area(14,9)
+4974.28
+>>> toroid_area(139,13.80)
+75727.5
+>>> toroid_area(12.98,5)
+2562.15
+>>> toroid_area(560.67,305.78)
+6768245.95
+>>> toroid_area(30,19.67)
+23296.21
+>>> toroid_area(425,125)
+2097290.94
+>>> toroid_area(852.6,12)
+403911.59
+>>> toroid_area(577,32.66)
+743963.67
+>>> toroid_area(74.1,72.11)
+210947.04
